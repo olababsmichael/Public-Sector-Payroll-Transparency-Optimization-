@@ -116,17 +116,22 @@ The goal is to support:
 This project uses publicly available data from the [City of Philadelphia Open Data Portal](https://www.phila.gov/data). No proprietary data is used.
 
 ---
-## 📂 Project Files  
-📁 Philly-Payroll-Analysis/  
-├── 📄 [README.md](./README.md) — Full project overview and insights  
-├── 📊 Employee_Earnings_Cleaned.xlsx — Cleaned and transformed dataset  
-├── 📊 Employee_Earnings_Raw.xlsx — Original raw dataset from City of Philadelphia  
-├── 📈 Power BI Dashboards  
-│   ├── 📊 Payroll Overview Dashboard  
-│   │   └── ![Payroll Dashboard](./payroll_dashboard_1.jpg)  
-│   ├── 📊 Departmental Insights Dashboard  
-│   │   └── ![Department Dashboard](./payroll_dashboard_2.jpg)  
-├── 📝 Final Report Presentation  
-│   └── 📄 Philadelphia_Payroll_Analysis_Presentation.pdf — Project slides used for stakeholder presentation
+## 📂 Project Files
+
+### 📄 Documentation
+- [README.md](./README.md) - Full project overview and insights  
+- [Philadelphia_Payroll_Analysis_Presentation.pdf](./Philadelphia_Payroll_Analysis_Presentation.pdf) - Final report presentation
+
+### 📊 Dataset
+- [Employee_Earnings_Raw_Cleaned_Transformed_Dataset.xlsx](./Employee_Earnings_Raw_Cleaned_Transformed_Dataset.xlsx)
+
+### 📈 Visualization
+
+**Dashboard 1** 
+![Payroll Dashboard 1](./Payroll_Overview_Dashboard1.png)
+
+**Dashboard 2**
+![Payroll Dashboard 2](./Payroll_Overview_Dashboard2.png)
+
 
 
